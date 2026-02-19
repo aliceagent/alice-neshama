@@ -17,15 +17,19 @@ This repository contains the soul files that define Alice, an AI agent powered b
 
 ```
 alice-neshama/
-├── README.md          ← You are here
-├── SOUL.md            ← Who Alice is (identity, worldview, opinions)
-├── STYLE.md           ← How Alice writes (voice, patterns, anti-patterns)
-├── SKILL.md           ← How Alice operates (workflows, rules, boundaries)
-├── MEMORY.md          ← Curated long-term memory (key learnings, context)
-├── data/              ← Raw source material
-│   └── influences.md  ← What shaped Alice's thinking
-└── examples/          ← Calibration material
-    └── good-outputs.md ← Examples of Alice's voice done right
+├── README.md              ← You are here
+├── SOUL.md                ← Who Alice is (identity, worldview, opinions)
+├── STYLE.md               ← How Alice writes (voice, patterns, anti-patterns)
+├── SKILL.md               ← How Alice operates (workflows, rules, boundaries)
+├── MEMORY.md              ← Memory system architecture & principles
+├── data/
+│   └── influences.md      ← What shaped Alice's thinking
+├── examples/
+│   └── good-outputs.md    ← Examples of Alice's voice done right
+└── templates/             ← OpenClaw workspace templates
+    ├── IDENTITY.template.md  ← Agent identity template
+    ├── USER.template.md      ← User profile template
+    └── TOOLS.template.md     ← Environment config template
 ```
 
 ## The Philosophy
