@@ -78,6 +78,7 @@ The Office is a visual, interactive workspace where AI agents live, work, and co
 - Desk items reflecting personality (see SUBAGENTS.md)
 - Status indicator light (green=working, gray=idle)
 - Task card visually attached to desk when working
+- **Ticket ID floating above agent's head** (e.g., "OFFICE-1-1") while working
 
 **Desk Locations:** Along the bottom wall, 9 stations total
 
