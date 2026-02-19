@@ -98,6 +98,13 @@ Each agent has a personalized desk reflecting their role and personality.
 - Simple, clean
 - Agents don't really need it but it's there for realism
 
+### 🛏️ Cots (x7)
+- Seven small cots along one wall for resting agents
+- When an agent is idle and not actively wandering, they sleep here
+- Each cot has a small pillow and blanket
+- Cozy, minimal, functional
+- Agents curl up and nap until their next task
+
 ### 🦜 The Birdcage
 - Large ornate cage near Alice's desk
 - Parrot (green with red beak) can perch here or on Alice's shoulder
@@ -118,7 +125,10 @@ Each agent has a personalized desk reflecting their role and personality.
 ### Working
 Agent is at their desk, focused on a task. Status shows on their monitor.
 
-### Idle
+### Sleeping
+Agent is in a cot, resting until their next task. Shows 💤 animation.
+
+### Idle (Wandering)
 Agent wanders the space:
 - Playing pool
 - Reading on the couch
